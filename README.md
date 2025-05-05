@@ -1,3 +1,18 @@
+![eisbison banner](./Images/TOR_logo.png)
+
+<p align="center">
+    <img src="https://badgen.net/static/AmongUs/16.0.2/red"> 
+    <a href="https://github.com/Windings-Lab/TheOtherRolesRelease/releases/"><img alt="Release Version" src="https://badgen.net/github/release/Windings-Lab/TheOtherRolesRelease?icon=github"></a>
+  <a href="https://github.com/Windings-Lab/TheOtherRolesRelease/releases"><img alt="Release Date" src="https://img.shields.io/github/release-date/Windings-Lab/TheOtherRolesRelease?style=plastic"></a>
+    <a href="https://github.com/Windings-Lab/TheOtherRolesRelease/releases"><img alt="Total Downloads" src="https://img.shields.io/github/downloads/Windings-Lab/TheOtherRolesRelease/total"></a>
+  <a href="https://github.com/Windings-Lab/TheOtherRolesRelease/releases/latest"><img alt="Download@Latest" src="https://img.shields.io/github/downloads/windings-lab/theotherrolesrelease/latest/total?style=plastic"></a>
+</p>
+
+---
+
+Вдохновлено русскоговорящим комьюнити [The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles/). Эта модификация изменяет [The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles/), добавляя множество опций для ее улучшения.
+
+
 ## Evil Guesser
 Во время игры Evil Guesser не отличается от обычного импостера. Во время голосования может угадать роль любого живого игрока. Если указанная в меню роль верна, то этот игрок умрет. Если роль отличается, умрет сам гэссер.
 ###
